@@ -1,0 +1,52 @@
+nohup: ignoring input
+[I 2024-09-23 11:32:09.148 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-23 11:32:09.153 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-23 11:32:09.171 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-23 11:32:09.177 ServerApp] Writing Jupyter server cookie secret to /home/ec2-user/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-23 11:32:09.918 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-23 11:32:10.043 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-23 11:32:10.048 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-23 11:32:10.051 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-23 11:32:10.056 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/jupyterlab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-23 11:32:10.056 LabApp] JupyterLab application directory is /home/ec2-user/environment/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-23 11:32:10.057 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-23 11:32:10.067 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-23 11:32:10.068 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-23 11:32:10.068 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-23 11:32:10.068 ServerApp] http://ip-10-2-0-17.ec2.internal:8888/lab?token=86f352ca195285c3a9d3e1b5773d49b3f1ab3ad3205b533f
+[I 2024-09-23 11:32:10.068 ServerApp]     http://127.0.0.1:8888/lab?token=86f352ca195285c3a9d3e1b5773d49b3f1ab3ad3205b533f
+[I 2024-09-23 11:32:10.068 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-23 11:32:10.077 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-23 11:32:10.078 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-3568-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-2-0-17.ec2.internal:8888/lab?token=86f352ca195285c3a9d3e1b5773d49b3f1ab3ad3205b533f
+        http://127.0.0.1:8888/lab?token=86f352ca195285c3a9d3e1b5773d49b3f1ab3ad3205b533f
+[I 2024-09-23 11:32:10.731 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-23 11:33:15.951 LabApp] Build is up to date
+[I 2024-09-23 11:33:22.307 ServerApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[W 2024-09-23 11:33:22.309 ServerApp] Notebook C3_W1_Lab_1_Storage_Types.ipynb is not trusted
+[I 2024-09-23 11:33:24.638 ServerApp] Kernel started: 4d32a21c-bd51-4627-8017-34e875ba2557
+[I 2024-09-23 11:33:25.720 ServerApp] Connecting to kernel 4d32a21c-bd51-4627-8017-34e875ba2557.
+[I 2024-09-23 11:33:26.232 ServerApp] Connecting to kernel 4d32a21c-bd51-4627-8017-34e875ba2557.
+[I 2024-09-23 11:33:26.767 ServerApp] Connecting to kernel 4d32a21c-bd51-4627-8017-34e875ba2557.
+[I 2024-09-23 11:35:23.931 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:43:25.114 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:45:26.241 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:47:27.328 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:49:28.418 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:51:29.546 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[W 2024-09-23 11:53:27.021 ServerApp] Notebook C3_W1_Lab_1_Storage_Types_Solution.ipynb is not trusted
+[I 2024-09-23 11:53:28.711 ServerApp] Kernel started: a8830975-52bd-4b24-8199-6723d227d8de
+[I 2024-09-23 11:53:29.526 ServerApp] Connecting to kernel a8830975-52bd-4b24-8199-6723d227d8de.
+[I 2024-09-23 11:53:30.641 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:55:28.662 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types_Solution.ipynb
+[I 2024-09-23 11:55:31.718 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:57:33.090 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 11:59:34.464 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 12:01:35.826 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 12:03:37.129 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 12:07:38.736 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
+[I 2024-09-23 12:09:40.164 ServerApp] Saving file at /C3_W1_Lab_1_Storage_Types.ipynb
